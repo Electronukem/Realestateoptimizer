@@ -1,0 +1,13 @@
+.property-image {
+  width: 100%;
+  aspect-ratio: 16/9;
+  border-radius: 12px 12px 0 0;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.property-image svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
